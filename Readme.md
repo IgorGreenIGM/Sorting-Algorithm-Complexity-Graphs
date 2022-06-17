@@ -2,11 +2,11 @@
 
 \^@mail : igormogou86@gmail.com
 
-Ceci est un programme C permettant la comparaison de la complexité en temps des differents
+Programme C de comparaison graphique de la complexité en temps des differents
 Algorithmes de tri. 
-Principe :
 -----------------------------------------------------------------------------------------------------------------------------
 
+PRINCIPE:
 Un algorithme de tri est utilisé sur un tableau de taille croissante, et à chaque taille, on stocke le temps
 d'execution par le processeur pour le réaliser. Les resultats obtenus(tailles et temps) sont stockés dans des fichiers textes
 au format .txt
